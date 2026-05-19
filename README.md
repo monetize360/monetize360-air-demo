@@ -1,5 +1,11 @@
 # Monetize360 NVIDIA AIR Demo
 
+# 👉 [Launch Monetize360 SaaS Demo](https://nvidia.magent-uat.com)
+
+Click the link above to access the Monetize360 SaaS demo environment.
+
+---
+
 ## Overview
 
 Welcome to the Monetize360 NVIDIA AIR Demo Marketplace environment.
@@ -37,14 +43,6 @@ NVIDIA AIR Marketplace
                                       |
                                       +--> Monetize360 SaaS Platform (AWS)
 ```
-
----
-
-## Launch Monetize360 Demo
-
-Click the link below to access the Monetize360 SaaS demo environment:
-
-# 👉 [Launch Monetize360 SaaS Demo](https://nvidia.magent-uat.com)
 
 ---
 
@@ -97,13 +95,17 @@ For assistance regarding the Monetize360 AIR demo environment, please contact th
 
 ## Additional Information
 
-For more information about NVIDIA AIR:
+### NVIDIA AIR Documentation
 
-- https://docs.nvidia.com/networking-ethernet-software/nvidia-air-v2/
+👉 https://docs.nvidia.com/networking-ethernet-software/nvidia-air-v2/
 
-For more information about Monetize360:
+### Monetize360 Platform
 
-# 👉 https://nvidia.magent-uat.com
+👉 https://monetize360.ai/
+
+### Live Demo Environment
+
+👉 [Launch Monetize360 SaaS Demo](https://nvidia.magent-uat.com)
 
 ---
 
