@@ -1,8 +1,8 @@
 # Monetize360 NVIDIA AIR Demo
 
-# 👉 [Launch Monetize360 SaaS Demo](https://nvidia.magent-uat.com)
+# 👉 [Launch Monetize360 Demo](https://nvidia.magent-uat.com)
 
-Click the link above to access the Monetize360 SaaS demo environment.
+Click the link above to access the Monetize360 demo environment.
 
 ---
 
@@ -10,19 +10,19 @@ Click the link above to access the Monetize360 SaaS demo environment.
 
 Welcome to the Monetize360 NVIDIA AIR Demo Marketplace environment.
 
-This demo provides access to the Monetize360 SaaS platform hosted securely in AWS Cloud. The NVIDIA AIR environment is used as a lightweight demo launcher and onboarding environment for customers and evaluators.
+This demo provides access to the Monetize360 platform hosted securely in AWS Cloud. The NVIDIA AIR environment is used as a lightweight demo launcher and onboarding environment for customers and evaluators.
 
 ---
 
 ## About Monetize360
 
-Monetize360 is a cloud-native SaaS platform designed to help enterprises accelerate digital monetization, API enablement, workflow orchestration, and platform integration.
+Monetize360 is a cloud-native platform designed to help enterprises accelerate digital monetization, API enablement, workflow orchestration, and platform integration.
 
 Key capabilities include:
 
 - API Management
 - Workflow Automation
-- SaaS Monetization
+- Monetization
 - Enterprise Integrations
 - Observability and Monitoring
 - Cloud-Native Deployments
@@ -62,7 +62,7 @@ NVIDIA AIR Marketplace
 
 The demo environment showcases:
 
-- SaaS platform onboarding
+- Platform onboarding
 - API and service orchestration
 - Enterprise integration workflows
 - Dashboard and observability capabilities
@@ -105,7 +105,7 @@ For assistance regarding the Monetize360 AIR demo environment, please contact th
 
 ### Live Demo Environment
 
-👉 [Launch Monetize360 SaaS Demo](https://nvidia.magent-uat.com)
+👉 [Launch Monetize360 Demo](https://nvidia.magent-uat.com)
 
 ---
 
